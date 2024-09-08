@@ -12,7 +12,7 @@
  
  🔎 I am currently seeking **employment**
  
- 🌱 I’m currently learning **Tailwind, API**
+ 🌱 I’m currently learning **Tailwind**
 
 💬 Ask me about **SQL, Laravel, System Analyst... or anything [here](http://t.me/hafizhhall)**
 
