@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔎 I am currently seeking **employment**
  
- 🌱 I’m currently learning **Tailwind**
+ 🌱 I’m currently learning **Tailwind, API**
 
 💬 Ask me about **SQL, Laravel, System Analyst... or anything [here](http://t.me/hafizhhall)**
 
